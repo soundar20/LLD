@@ -84,15 +84,5 @@ public class Main {
         Play play=new Play(boardSize,snake,ladder,dice,playerAndCurrentPoistion,players);
         play.startGame();
         play.WinnerList();
-
-
-
-
-
-
-
-
-
-
     }
 }
